@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П9 З3 Слияние" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="practice9.task3.MergeStudentLists" />
+    <module name="blok3" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>

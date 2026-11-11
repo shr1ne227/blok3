@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="П17 Картотека" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="practice17.CatalogTest" />
+    <module name="blok3" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
